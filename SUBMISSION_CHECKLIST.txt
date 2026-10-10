@@ -1,0 +1,17 @@
+PROJECT SUBMISSION CHECKLIST
+
+Required files:
+1. FizaKhan_SupermarketSalesAnalysis.ipynb  (Code File; .ipynb)
+2. requirements.txt                         (Requirements File; .txt)
+3. FizaKhan_ProjectReport.docx               (Project Report; .docx)
+4. README.md                                 (README File; .md)
+
+Before submitting:
+- Open the notebook in Jupyter/Google Colab and run all cells.
+- Check that no code cell shows an error.
+- Confirm whether the public CSV loaded or synthetic fallback was used.
+- If synthetic fallback was used, keep the report's limitation statement.
+- Create a GitHub repository named Retail-Sales-Analysis-AI, upload these four files, and paste the repository URL into the form's GitHub Repository field.
+- Fill in the official full college name, state, and campus PIN code. Verify the PIN from your college's official source; do not guess.
+- The form asks for the Code File, Requirements File, README File, and GitHub repository. Project Report appears optional in the screenshot, but upload it too if the form allows.
+- No file or project can guarantee certificate approval; the organizer decides eligibility.
